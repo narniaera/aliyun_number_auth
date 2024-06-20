@@ -65,3 +65,10 @@ android {
 flutter {
     source = "../.."
 }
+
+repositories {
+    flatDir {
+        dirs 'libs', '../../android/libs'
+    }
+}
+

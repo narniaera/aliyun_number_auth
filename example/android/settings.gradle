@@ -23,3 +23,6 @@ plugins {
 }
 
 include ":app"
+// include ':aliyun_auth_number'
+// project(':aliyun_auth_number').projectDir = new File(rootProject.projectDir, '../aliyun_auth_number/android')
+

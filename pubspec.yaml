@@ -1,10 +1,10 @@
 name: aliyun_number_auth
 description: 阿里云号码认证一键登录.
-version: 0.0.1
+version: 0.0.15
 homepage: https://github.com/narniaera/aliyun_number_auth
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: '>=3.1.0 <4.0.0'
   flutter: '>=3.3.0'
 
 dependencies:

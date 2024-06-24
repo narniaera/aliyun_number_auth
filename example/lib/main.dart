@@ -42,14 +42,8 @@ class _MyAppState extends State<MyApp> {
     //定义ui配置
     AliyunNumberAuthUIConfig aliyunNumberAuthUIConfig =
         AliyunNumberAuthUIConfig(
-      setAppPrivacyOne: [
-        '《用户协议》',
-        'https://petstore.deering.cn/html/user_agreement.html'
-      ],
-      setAppPrivacyTwo: [
-        '《隐私协议》',
-        'https://petstore.deering.cn/html/privacy_policy.html'
-      ],
+      setAppPrivacyOne: ['《用户协议》', 'https://baidu.com'],
+      setAppPrivacyTwo: ['《隐私协议》', 'https://m.baidu.com'],
       setSloganText: "登录后更精彩",
       setSloganOffsetY: 150,
       setSloganTextColor: '#ffffff',
